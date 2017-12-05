@@ -1,0 +1,89 @@
+@charset "ISO-8859-1";
+
+h1 {
+	padding-top: 20px; 
+}
+
+
+.btn{
+	border-radius: 0 !important;
+}
+
+/* input{
+	border-radius: 0 !important;
+	
+} */
+
+footer{
+	
+	padding-top: 40px;
+}
+	
+.btn-secondary{
+	
+	background-color: #ccc;
+	
+}
+
+.form-control {
+	border-radius: 0 !important;
+}
+
+h1 .h1-outline {
+	-webkit-text-stroke-width: 1px;
+   -webkit-text-stroke-color: black;
+}
+
+.login-box {
+	text-align: center;
+}
+
+.login-container{
+	width:40%;
+	margin: auto;
+	margin-top: 100px;
+}
+
+/* Change for the choose file button on the add product page  */
+input[type=file]::-webkit-file-upload-button {
+  border: 0px;
+  background: #0275d8;
+  color: #fff;
+}
+
+.container-wrapper {
+	height: 80%;
+	margin: auto;
+	margin-top: 80px;
+	margin-bottom: 300px;
+}
+
+.home-image {
+	display: block;
+	width: 100% !important;
+	height: auto !important;
+}
+
+ .table {
+	table-layout: fixed;
+	overflow: auto;
+}
+
+ .table th {
+	text-align: center;
+	
+}
+
+.table td {
+	text-align: center;
+	background: white;
+	
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+
+.h1-outline {
+	-webkit-text-stroke-width: 1px;
+   -webkit-text-stroke-color: black;
+}
